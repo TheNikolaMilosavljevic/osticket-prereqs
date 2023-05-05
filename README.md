@@ -23,10 +23,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Created Microsoft Azure Account
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enabled Internet Information Services (IIS)
+- Installed web platform installer
+- Installed mysql, set up username and password
+- Installed C++ redistributable
 
 <h2>Installation Steps</h2>
 
