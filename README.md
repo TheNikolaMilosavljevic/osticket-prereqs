@@ -97,5 +97,10 @@ Step 8: Click start and then type IIS, right click and then click "run as admini
 </p>
 Step 9: Download and Install OSticket using the following link:
 https://osticket.com/download/. After download, navigate to the upload folder and drag and drop it into C:inetpub/wwwroot. After the upload folder is finished dropping, rename the upload folder to "osticket". Open IIS as administrator and restart server again.
+<p>
+<br />
+<a href="https://imgbox.com/V8IFc9Ul" target="_blank"><img src="https://images2.imgbox.com/c2/90/V8IFc9Ul_o.jpg" alt="image host"/></a>
+</p>
+Step 10: In IIS, on the left hand side, expand the server, expand sites, expand default, and click osticket. On the right, click "browse *80(http)".
 
 
