@@ -66,4 +66,36 @@ Step 4: Download and Install Rewrite module using this link: https://www.iis.net
   </p>
   <p>
 Step 5: Create a new folder on your C: drive called PHP and download and extract this file into the newly created folder. Download link for PHP for windows: https://www.php.net/downloads.php
+</p>
+<br />
+
+<p>
+ <a href="https://imgbox.com/90qME4ml" target="_blank"><img src="https://images2.imgbox.com/5b/31/90qME4ml_o.jpg" alt="image host"/></a>
+</p>
+Step 6: Download and Install C++ Redistributable following this link:
+https://github.com/MicrosoftDocs/cpp-docs/blob/main/docs/windows/latest-supported-vc-redist.md
+</p>
+<br />
+
+<p>
+<a href="https://imgbox.com/HTsdJ94A" target="_blank"><img src="https://images2.imgbox.com/40/60/HTsdJ94A_o.jpg" alt="image host"/></a>
+</p>
+Step 7: Download and install mysql using the following link:
+https://dev.mysql.com/downloads/installer/. Set up a username and password.
+<p>
+<br />
   
+<p>
+<a href="https://imgbox.com/P8w1Pqqu" target="_blank"><img src="https://images2.imgbox.com/ec/da/P8w1Pqqu_o.jpg" alt="image host"/></a>
+</p>
+Step 8: Click start and then type IIS, right click and then click "run as administrator". Double click php manager and register new php version, open and link to  C:php/php-cgi. When finished, single click on server and under manage server, restart the server.
+<p>
+<br />
+  
+<p>
+<a href="https://imgbox.com/kd1bjZ9W" target="_blank"><img src="https://images2.imgbox.com/7e/a7/kd1bjZ9W_o.jpg" alt="image host"/></a>
+</p>
+Step 9: Download and Install OSticket using the following link:
+https://osticket.com/download/. After download, navigate to the upload folder and drag and drop it into C:inetpub/wwwroot. After the upload folder is finished dropping, rename the upload folder to "osticket". Open IIS as administrator and restart server again.
+
+
