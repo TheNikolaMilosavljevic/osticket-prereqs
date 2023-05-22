@@ -111,6 +111,11 @@ Step 10: In IIS, on the left hand side, expand the server, expand sites, expand 
 Step 11: Note that some extentions are missing from the OSticket install indicted by the page you loaded from the previous step. Go back to IIS, clicking sites -> Default --> OSticket, double click PHP manager. Enable the following extentions: php_imap.dll, php_intl.dll, and php_opcache.dll. Then refresh the osticket page you loaded in step 10 to see changes.
 <p>
 <br />
+  
+<p>
+<a href="https://imgbox.com/mFp9Q7bf" target="_blank"><img src="https://images2.imgbox.com/08/d5/mFp9Q7bf_o.jpg" alt="image host"/></a>
+</p>
+Step 12: We need to give permission from everyone to use ost-config.php. Right click on ost-config and click on properties and then advanced. Click Disable inheritance, remove all permission. Then click add permissions, click principal and under "enter object name", type "everyone" and click "ok". Then checkmark "everyone" and press ok.
 
 
 
