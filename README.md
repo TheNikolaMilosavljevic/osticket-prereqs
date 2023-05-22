@@ -105,5 +105,12 @@ Step 10: In IIS, on the left hand side, expand the server, expand sites, expand 
 <p>
 <br />
 
+<p>
+<a href="https://imgbox.com/2tG9ngDr" target="_blank"><img src="https://images2.imgbox.com/c0/8b/2tG9ngDr_o.jpg" alt="image host"/></a>
+</p>
+Step 11: Note that some extentions are missing from the OSticket install indicted by the page you loaded from the previous step. Go back to IIS, clicking sites -> Default --> OSticket, double click PHP manager. Enable the following extentions: php_imap.dll, php_intl.dll, and php_opcache.dll. Then refresh the osticket page you loaded in step 10 to see changes.
+<p>
+<br />
+
 
 
