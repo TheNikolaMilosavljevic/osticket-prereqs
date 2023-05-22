@@ -101,7 +101,7 @@ https://osticket.com/download/. After download, navigate to the upload folder an
 <br />
 <a href="https://imgbox.com/V8IFc9Ul" target="_blank"><img src="https://images2.imgbox.com/c2/90/V8IFc9Ul_o.jpg" alt="image host"/></a>
 </p>
-Step 10: In IIS, on the left hand side, expand the server, expand sites, expand default, and click osticket. On the right, click "browse *80(http)". This should load a osticket page, thanking you for choosing osticket. This loading indicates you have installed osticket correctly
+Step 10: In IIS, on the left hand side, expand the server, expand sites, expand default, and click osticket. On the right, click "browse *80(http)". This should load a osticket page, thanking you for choosing osticket. This loading indicates you have installed osticket correctly.
 <p>
 <br />
 
