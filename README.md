@@ -129,7 +129,7 @@ Step 13: Continue the osticket install by clicking continue on the previously lo
 <p>
 <a href="https://imgbox.com/EaNuqvHS" target="_blank"><img src="https://images2.imgbox.com/77/35/EaNuqvHS_o.jpg" alt="image host"/></a>
 </p>
-Step 14: Download and Install Heidisql using this link, https://www.heidisql.com/download.php, launch Heidisql and click new in the bottom left corner, use the password you used when installing mysql. Create a new database called osticket by right clicking "unnamed" and scroll to new and clcik "database". Go back to the osticket page and type into the database section the databse information you just created.
+Step 14: Download and Install Heidisql using this link, https://www.heidisql.com/download.php, launch Heidisql and click new in the bottom left corner, use the password you used when installing mysql. Create a new database called osticket by right clicking "unnamed" and scroll to new and click "database". Go back to the osticket page and type into the database section the databse information you just created and click "install now" in the osticket webpage. After install it should load a congratulations page. This means OSticket loaded onto the server you just created successfully.
 <p>
 <br />
 
