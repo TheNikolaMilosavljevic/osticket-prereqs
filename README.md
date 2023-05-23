@@ -135,7 +135,18 @@ Step 14: Download and Install Heidisql using this link, https://www.heidisql.com
   
 <p>
 <a href="https://imgbox.com/kJXwBq7x" target="_blank"><img src="https://images2.imgbox.com/a8/90/kJXwBq7x_o.jpg" alt="image host"/></a>
+</p>
 Step 15: Delete the setup folder under the directory, c:\inetpub\wwwroot\osticket\setup. Browse to C:\inetpub\wwwroot\osticket\include\ost-config.php, right click on ost-config.php, click properties, then security, then advanced, highlight everyone and edit. Uncheck every permission except "read" and "read and execute". Click save and ok.
+<p>
+<br/>
+  
+<p>
+<a href="https://imgbox.com/pkFg7T04" target="_blank"><img src="https://images2.imgbox.com/0a/e5/pkFg7T04_o.jpg" alt="image host"/></a>
+</p>
+Step 16: Go to your help desk osticket log in page by typing, http://localhost/osTicket/scp/login.php, log in using your username and password.
+<p>
+<br/>
+
 
 
 
