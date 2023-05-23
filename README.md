@@ -132,6 +132,12 @@ Step 13: Continue the osticket install by clicking continue on the previously lo
 Step 14: Download and Install Heidisql using this link, https://www.heidisql.com/download.php, launch Heidisql and click new in the bottom left corner, use the password you used when installing mysql. Create a new database called osticket by right clicking "unnamed" and scroll to new and click "database". Go back to the osticket page and type into the database section the databse information you just created and click "install now" in the osticket webpage. After install it should load a congratulations page. This means OSticket loaded onto the server you just created successfully.
 <p>
 <br />
+  
+<p>
+<a href="https://imgbox.com/kJXwBq7x" target="_blank"><img src="https://images2.imgbox.com/a8/90/kJXwBq7x_o.jpg" alt="image host"/></a>
+Step 15: Delete the setup folder under the directory, c:\inetpub\wwwroot\osticket\setup. Browse to C:\inetpub\wwwroot\osticket\include\ost-config.php, right click on ost-config.php, click properties, then security, then advanced, highlight everyone and edit. Uncheck every permission except "read" and "read and execute". Click save and ok.
+
+
 
 
 
