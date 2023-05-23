@@ -116,6 +116,22 @@ Step 11: Note that some extentions are missing from the OSticket install indicte
 <a href="https://imgbox.com/mFp9Q7bf" target="_blank"><img src="https://images2.imgbox.com/08/d5/mFp9Q7bf_o.jpg" alt="image host"/></a>
 </p>
 Step 12: We need to give permission from everyone to use ost-config.php. Right click on ost-config and click on properties and then advanced. Click Disable inheritance, remove all permission. Then click add permissions, click principal and under "enter object name", type "everyone" and click "ok". Then checkmark "everyone" and press ok.
+<p>
+<br />
+
+<p>
+<a href="https://imgbox.com/aiSMJi5u" target="_blank"><img src="https://images2.imgbox.com/26/41/aiSMJi5u_o.jpg" alt="image host"/></a>
+</p>
+Step 13: Continue the osticket install by clicking continue on the previously loaded webpage and type in your name and default email. Fill in your admin information. Before we continue filling in the osticket page, we must set up Heidisql beforehand.
+<p>
+<br />
+  
+<p>
+<a href="https://imgbox.com/EaNuqvHS" target="_blank"><img src="https://images2.imgbox.com/77/35/EaNuqvHS_o.jpg" alt="image host"/></a>
+</p>
+Step 14: Download and Install Heidisql using this link, https://www.heidisql.com/download.php, launch Heidisql and click new in the bottom left corner, use the password you used when installing mysql. Create a new database called osticket by right clicking "unnamed" and scroll to new and clcik "database". Go back to the osticket page and type into the database section the databse information you just created.
+<p>
+<br />
 
 
 
